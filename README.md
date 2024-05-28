@@ -2,7 +2,7 @@
 **Research Question:** How indicative are the Justices’ rhetoric/tone during Oral Argument to their decision? Can we understand the relationship between the types of questions the Justices raise and the way they are going to sequentially vote?
 
 
-
+In order to test this, we provide the necessary data and replication code here. 
 
 
 
