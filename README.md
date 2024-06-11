@@ -1,11 +1,16 @@
 # POLI-179-Project
-**Research Question:** How indicative are the Justices’ rhetoric/tone during Oral Argument to their decision? Can we understand the relationship between the types of questions the Justices raise and the way they are going to sequentially vote?
 
+**Overview**
+Our project aims to analyze the oral arguments presented during Supreme Court cases and explore the relationship between justices' rhetoric, sentiment, and voting patterns. 
+
+**Research Question:** We hypothesize that the verbal exchanges during oral arguments contain valuable indicators of justices' sequential positions and voting tendencies.
 
 In order to test this, we provide the necessary data and replication code here. 
 
 
+Notebooks: This directory hosts Jupyter notebooks used for analysis, visualization, and interpretation of results. Contains data used in the project. 
 
+Figures: 
 
 
 
