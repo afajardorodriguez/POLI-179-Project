@@ -8,10 +8,14 @@ Our project aims to analyze the oral arguments presented during Supreme Court ca
 In order to test this, we provide the necessary data and replication code here. 
 
 
-Notebooks: This directory hosts Jupyter notebooks used for analysis, visualization, and interpretation of results. Contains data used in the project. 
+**Data**: 
+This directory contains raw and cleaned data in which can also be found in Convokit toolkit. 
 
-Figures: 
+**Notebooks**: 
+This directory hosts Jupyter notebooks used for analysis, visualization, and interpretation of results. Contains data used in the project. 
 
+**Figures**: 
+This directory contains all figures generated during analysis, including plots, charts, and visualizations.
 
 
 **----- Link to our Project Folder on Google Drive ------**
