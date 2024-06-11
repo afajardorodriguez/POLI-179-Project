@@ -1,23 +1,28 @@
-# POLI-179-Project
+#POLI-179-Project
+Overview
 
-**Overview**
+Our project delves into the analysis of oral arguments presented during Supreme Court cases, aiming to uncover the intricate relationship between justices' rhetoric, sentiment, and voting patterns.
 
+**Research Question:
+** We hypothesize that the verbal exchanges during oral arguments serve as valuable indicators of justices' sequential positions and voting tendencies.
 
-Our project aims to analyze the oral arguments presented during Supreme Court cases and explore the relationship between justices' rhetoric, sentiment, and voting patterns. 
+To validate our hypothesis, we provide access to the necessary data and replication code in this repository.
 
-**Research Question:** We hypothesize that the verbal exchanges during oral arguments contain valuable indicators of justices' sequential positions and voting tendencies.
+**Data**:
+This directory contains both raw and cleaned data, available through the Convokit toolkit, facilitating transparency and reproducibility.
 
-In order to test this, we provide the necessary data and replication code here. 
+**Notebooks**:
+Explore our Jupyter notebooks housed in this directory for comprehensive analysis, visualization, and interpretation of results. It encompasses the data utilized throughout the project.
 
+**Figures**:
+Find all visual aids and figures generated during our analysis in this directory, including plots, charts, and visualizations.
 
-**Data**: 
-This directory contains raw and cleaned data in which can also be found in Convokit toolkit. 
+----- Link to our Project Folder on Google Drive ------
 
-**Notebooks**: 
-This directory hosts Jupyter notebooks used for analysis, visualization, and interpretation of results. Contains data used in the project. 
+POLI 179 Project: Google Drive
 
-**Figures**: 
-This directory contains all figures generated during analysis, including plots, charts, and visualizations.
+This link provides access to our project folder on Google Drive, offering additional resources and materials related to our project.
+
 
 
 **----- Link to our Project Folder on Google Drive ------**
