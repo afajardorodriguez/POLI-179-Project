@@ -1,6 +1,6 @@
 # POLI-179-Project
 
-### Overview
+### Overview 
 
 Our project delves into the analysis of oral arguments presented during Supreme Court cases, aiming to uncover the intricate relationship between justices' rhetoric, sentiment, and voting patterns.
 
